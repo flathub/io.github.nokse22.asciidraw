@@ -57,8 +57,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag" : "v0.2.0",
-                    "commit" : "201030c54d51ce862d45c0f493c9c1a9c628f46c",
+                    "tag" : "v0.3.0",
+                    "commit" : "dddca14378c4ef6637a28e0b19990bdaecbd179c",
                     "url" : "https://github.com/Nokse22/ascii-draw"
                 }
             ]
