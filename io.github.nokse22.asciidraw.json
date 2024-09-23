@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.nokse22.asciidraw",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "47",
     "sdk" : "org.gnome.Sdk",
     "command" : "ascii-draw",
     "finish-args" : [
@@ -57,8 +57,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "commit" : "1d41bc10c8016bcb2ddaf2c1d5599347f8705460",
-                    "url" : "https://github.com/Nokse22/ascii-draw"
+                    "url" : "https://github.com/Nokse22/ascii-draw",
+                    "commit" : "ccdbcef22b15f0ddd8ae37a73eaa822d610eecf0"
                 }
             ]
         }
